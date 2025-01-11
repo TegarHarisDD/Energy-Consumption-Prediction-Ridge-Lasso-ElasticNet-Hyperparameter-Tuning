@@ -5,7 +5,6 @@ This study focuses on predicting energy consumption using regression techniques,
 
 ## Dataset
 - Dataset : https://www.kaggle.com/datasets/ajinilpatel/energy-consumption-prediction/data
-Here's a draft for a README file tailored to your repository. It explains the project and gives an overview of its content and purpose.
 
 ---
 
